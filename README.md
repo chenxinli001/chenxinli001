@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenxinli001&count_private=true&show_icons=true&theme=cobalt) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenxinli001&count_private=true&show_icons=true&theme=merko) 
 
 &nbsp;
 
@@ -8,6 +8,6 @@
 
 &nbsp;
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chenxinli001&theme=react-dark)](https://github.com/chenxinli001/chenxinli001)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chenxinli001&theme=github-dark)](https://github.com/chenxinli001/chenxinli001)
 
 
